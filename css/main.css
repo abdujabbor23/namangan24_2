@@ -265,3 +265,55 @@
 .img-display__style img{
     margin-left: 20px;
 }
+
+/* aboutme style */
+.flex-mini{
+    display: flex;
+    justify-content: center;
+}
+.line-height{
+    line-height: 1.6;
+}
+.tex-1flex{
+    margin: 5px;
+    background-color: rgb(217, 217, 217);
+    width: 350px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.paragraph-width__style{
+    font-weight: 800;
+    line-height: 1.6;
+}
+.font-size{
+    font-weight: 800;
+    line-height: 1.5;
+}
+.flex-right__style{
+    background-color:rgb(217, 217, 217);
+    height: 650px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.flex-right__style img{
+    margin-top: 20px;
+    width: 300px;
+}
+.right-glavnaya{
+    font-weight: 800;
+    margin-top: 0px;
+}
+.lorem-psrag{
+    font-weight: 700;
+    line-height: 1.5;
+}
+.colorblack{
+    font-weight: 100;
+    color: rgb(86, 86, 86);
+    font-size: 16px;
+}
+.input-style{
+    display: flex;
+}
